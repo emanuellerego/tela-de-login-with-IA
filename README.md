@@ -10,7 +10,7 @@ A tela deve ter um layout centralizado verticalmente e responsivo.
 
 Os campos obrigatórios são: email, senha, checkbox de “lembrar-me”, link de “esqueci minha senha”, botão de login, e botões de login com redes sociais (como Google e Facebook), usando ícones do Font Awesome.
 
-Use apenas HTML puro, sem nenhum script JavaScript adicional além do necessário para ativar o modo claro/escuro com DaisyUI.
+Use apenas HTML puro, sem nenhum script JavaScript adicional além do necessário para ativar o modo claro/escuro com DaisyUI (Foi retirado do prompt inicial).
 
 Utilize as tecnologias atualizadas e estáveis via CDN:
 
